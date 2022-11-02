@@ -1,0 +1,1 @@
+1._inheritance_ in fp, is done by having a base component and an upper component which **passes** the buisness logic and the styles down to the base one, and thats like having a base classes with variants.
